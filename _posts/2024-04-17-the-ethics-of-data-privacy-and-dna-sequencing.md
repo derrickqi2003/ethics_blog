@@ -4,7 +4,7 @@ title: The Ethics of Data Privacy and DNA Sequencing
 subtitle: A discussion of the main ethical issues
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Medical Devices]
 comments: true
 mathjax: true
 author: Ishir Garg

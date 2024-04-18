@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AppleHealthKit: Is our data safe with them?
+title: AppleHealthKit - Is our data safe with them?
 subtitle:
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
